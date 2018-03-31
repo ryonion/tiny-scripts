@@ -1,4 +1,5 @@
 ## rename audio file with metadata info
+## windows only
 
 from tinytag import TinyTag
 import os
